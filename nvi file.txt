@@ -1,3 +1,2 @@
 din 1
 din 2
-din 3
